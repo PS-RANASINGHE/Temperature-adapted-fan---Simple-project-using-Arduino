@@ -1,5 +1,3 @@
-# Temperature-adapted-fan - Simple-project-using-Arduino
-
 # 🌡️ Temperature-Controlled Fan System Using Arduino
 
 A low-cost, smart, temperature-responsive AC fan system designed for comfort, energy efficiency, and usability—especially for the elderly and teenagers. This project dynamically adjusts fan speed based on ambient room temperature using an Arduino microcontroller and a set of reliable electronic components.
