@@ -70,5 +70,6 @@ Code is mentioned in the file `code_of__the_project.INO` file
 ![image](https://github.com/user-attachments/assets/4fe904bb-2f8e-4797-8f1d-7ba3daf8dfb7)
 
 
- Test results are shown in the `Arduino Temperature Controlled Fan Speed.mp4`
+[Click here to view the test cases on Google Drive](https://drive.google.com/drive/folders/1cz-0frsfdOBm99glWJPcXKnBBIwezDnj?usp=sharing)
+#### Note that in order for clear visualization i have attach a bulb so that the brightness of the bulb varies with the temperature
 
